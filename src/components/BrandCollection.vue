@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import BrandLogo from '@/components/BrandLogo.vue'
+import jollyTimeLogo from '@/assets/images/jolly-time.png'
 
 const brands = [
   {
-    imageSrc: '../../src/assets/images/jolly-time.png',
-    altText: 'Jolly Time Popcorn Brand Logo',
+    imageSrc: jollyTimeLogo,
+    altText: 'JollyTime Popcorn Brand Logo',
   },
   // TODO Add more brands
 ]
