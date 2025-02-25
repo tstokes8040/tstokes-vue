@@ -2,6 +2,15 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## TODO Checklist
+
+- Move away from CSS to SASS
+- Remove Vue starter template styles
+- Add branding colors and logos
+- Create the nav
+- Start About Me vue
+- Finish brand component and styling
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).

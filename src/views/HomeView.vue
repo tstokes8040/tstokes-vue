@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import BrandCollection from '@/components/BrandCollection.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <h2>Brands</h2>
+    <p>Below are brands that I have worked with.</p>
+    <BrandCollection />
   </main>
 </template>
